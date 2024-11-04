@@ -1,0 +1,96 @@
+Package: csci-e106-data-modeling-group4
+Title: CSCI E-106 Data Modeling Group 4 Project
+Version: 0.0.0.9000
+Authors@R: 
+    person("Group", "4", , "first.last@example.com", role = c("aut", "cre"))
+Description: Harvard Extension School CSCI E-106 Data Modeling Group 4 Project
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports:
+    # Core tidyverse packages
+    tidyverse,
+    dplyr,
+    tidyr,
+    readr,
+    purrr,
+    stringr,
+    forcats,
+    lubridate,
+    
+    # Data manipulation and cleaning
+    data.table,
+    janitor,
+    dtplyr,
+    vroom,
+    
+    # Visualization
+    ggplot2,
+    plotly,
+    scales,
+    viridis,
+    patchwork,
+    
+    # Statistical modeling and machine learning
+    stats,
+    broom,
+    caret,
+    tidymodels,
+    modelr,
+    
+    # Performance and optimization
+    bench,
+    profvis,
+    
+    # Documentation and reproducibility
+    rmarkdown,
+    knitr,
+    bookdown,
+    here,
+    
+    # Project management and development
+    devtools,
+    usethis,
+    testthat,
+    roxygen2,
+    
+    # Database connections
+    DBI,
+    RSQLite,
+    
+    # Advanced data structures
+    tibble,
+    matrices,
+    
+    # Functional programming
+    purrr,
+    furrr,
+    
+    # Quality control and testing
+    checkmate,
+    assertthat,
+    
+    # Parallel processing
+    parallel,
+    future,
+    
+    # Reporting and output
+    gt,
+    flextable,
+    officer,
+    
+    # Version control integration
+    gert,
+    
+    # Web scraping and API interaction
+    httr2,
+    rvest,
+    jsonlite
+Suggests:
+    spelling,
+    covr,
+    lintr,
+    styler
+Config/testthat/edition: 3
+Language: en-US
