@@ -156,12 +156,23 @@ library(testthat)   # v3.2.1.1  # Unit testing
 
 1. Clone the repository:
 
+a. Install Git:
+https://git-scm.com/downloads
+
+b. Clone the repository:
 git clone https://github.com/harvard-csci-e106-group4/csci-e106-data-modeling-group4.git
+
+2. Open the project:
+
+Double click on the `csci-e106-data-modeling-group4.Rproj` file to open the project in RStudio.
 
 2. Install required packages:
 
 # Restore project environment using renv
+install.packages("renv")
 renv::restore()
+
+Now you are ready to start working on the project!
 
 ## Project Instructions
 
