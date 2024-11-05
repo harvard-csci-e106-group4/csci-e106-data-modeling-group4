@@ -224,17 +224,21 @@ This project uses:
 - Submit both RMD markdown file and PDF with appropriate explanations
 - A formal Word document can replace PDF file
 
-## Team Members
+## Team Members (Group 4 in Google Docs)
+
+https://docs.google.com/spreadsheets/d/1TGn8OscLktORh_1CP5mt0YHNYAjscAV8-2GIj6o-EsE/edit?gid=0#gid=0
 
 - [Member 1] Samuel Carvalho    sc.samuelcarvalho@gmail.com
 - [Member 2] Thanh Phong Le     ltphongssvn@gmail.com 
-- [Member 3] Surabhi Khanal	    suk747@g.harvard.edu
-- [Member 4] Stephen Chundama	  chundamazc@gmail.com
-- [Member 5] Phani Sunke	      phani.sunke@gmail.com
-- [Member 6] Monika Kumaria	    mok257@g.harvard.edu
-- [Member 7] Ying	              lilly0813@gmail.com
-- [Member 8]
-
+- [Member 3] Josh Kim	          joshuaswkim@gmail.com
+- [Member 4] Phani Sunke	      phani.sunke@gmail.com
+- [Member 5] Hamza Ali	        sya938@g.harvard.edu
+- [Member 6] Surabhi Khanal	    suk747@g.harvard.edu
+- [Member 7] Joshua White	      joshuarwhite99@gmail.com
+- [Member 8] Reid Lewis	        Reidlewisofficial@gmail.com
+- [Member 9] Ying	              lilly0813@gmail.com
+- [Member 10] Stephen Chundama	chundamazc@gmail.com
+- [Member 11] Monika Kumaria	  mok257@g.harvard.edu
 
 ## License
 
