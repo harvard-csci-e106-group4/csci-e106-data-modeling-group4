@@ -16,7 +16,7 @@
 .Renviron
 
 # R project files
-*.Rproj
+# *.Rproj
 
 # Output files
 output/*
